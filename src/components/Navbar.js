@@ -6,7 +6,7 @@ import Container from "react-bootstrap/Container";
 import Button from "react-bootstrap/Button";
 import { Link } from "react-router-dom";
 import { CgGitFork } from "react-icons/cg";
-import { TiContacts} from "react-icons/ti";
+// import { TiContacts} from "react-icons/ti";
 import {
   AiFillStar,
   AiOutlineHome,
@@ -39,7 +39,6 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand href="/" className="d-flex">
-          {/* <img src={logo} className="img-fluid logo" alt="brand" /> */}
           <h2>Portfolio</h2>
         </Navbar.Brand>
         <Navbar.Toggle
@@ -93,7 +92,7 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
-            <Nav.Item>
+            {/* <Nav.Item>
               <Nav.Link
                  as={Link}
                  to="/contact"
@@ -101,7 +100,7 @@ function NavBar() {
               >
                 <TiContacts style={{ marginBottom: "2px" }} /> Contact
               </Nav.Link>
-            </Nav.Item>
+            </Nav.Item> */}
 
             <Nav.Item className="fork-btn">
               <Button
