@@ -3,7 +3,7 @@
   <a href="https://tejasp-portfolio.netlify.app/" target="_blank">Tejas.Portfolio</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Assets/home-port.PNG" />
+  <img alt="Demo" src="./src/Assets/home-port.PNG" />
 </div>
 
 <br/>
