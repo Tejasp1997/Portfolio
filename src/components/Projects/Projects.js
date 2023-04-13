@@ -26,7 +26,8 @@ function Projects() {
               imgPath={gamers}
               isBlog={false}
               title="Gamers-Buddy"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              description="Developed a web-based an application where you can find teammates/friends by joining specific game group and 
+              chat with them using React, Node JS and MySQL."
               ghLink="https://github.com/Tejasp1997/Gamers-Buddy"
               demoLink="https://gamers-buddy.netlify.app/"
             />
@@ -37,7 +38,7 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="Mega Cart"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              description="Mega Cart is an online shopping application, where users can buy various products based on their liking. In this application, the user needs to login to execute the user stories."
               ghLink="https://github.com/Tejasp1997/MegaCart"
               demoLink="https://megacart.netlify.app/"
               />

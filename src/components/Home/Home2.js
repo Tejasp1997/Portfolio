@@ -43,12 +43,12 @@ function Home2() {
               <i>
                 <b className="purple">
                   {" "}
-                  Database Managment System like MySQL and MOngoDB.
+                  Database Managment System 
                 </b>
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js </b>
+                <b className="purple"> MySQL and MOngoDB.  </b>
               </i>
             </p>
           </Col>
